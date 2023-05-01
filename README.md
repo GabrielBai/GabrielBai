@@ -1,4 +1,4 @@
-## Ola! Eu sou Gabriel, e um novo estudante :D
+## Cú 
 
 <div>
   <a href="https://github.com/GabrielBai">
